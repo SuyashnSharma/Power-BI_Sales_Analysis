@@ -1,1 +1,2 @@
 # Power-BI_Sales_Analysis
+This Power BI project provides an interactive dashboard with comprehensive insights into key performance indicators (KPIs) such as Sales, Average Delivery Days, Total Units Sold, and Total Cost. The report includes detailed analysis by various profiles, including Region, Country, Item, Sales Channel, and Order Priority. It also features time series analysis to monitor trends over time, with a summary dashboard and separate report pages for each profile.
